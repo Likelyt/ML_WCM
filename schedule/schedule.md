@@ -61,7 +61,7 @@
 ### 19. Nearest Neighbor
 
 
-#### 20. Neural Networks
+### 20. Neural Networks
 
 
 ## Part III. Additional Learning Models
