@@ -1,6 +1,6 @@
 # WCM - Statistical Learning
 
-## Part I
+## Part I. Foundations
 
 ### 2. A Gentle Start
 
@@ -25,7 +25,7 @@
 
 
 
-## Part II
+## Part II. From Theory to Algorithms
 
 
 ### 9. Linear Predictors
@@ -64,7 +64,7 @@
 #### 20. Neural Networks
 
 
-## Part III
+## Part III. Additional Learning Models
 
 
 ### 21. Online Learning
@@ -83,7 +83,7 @@
 ### 25. Feature Selection and Generation
 
 
-Part IV. Advanced Theory
+## Part IV. Advanced Theory
 
 ### 26. Rademacher Complexities 
 
