@@ -2,27 +2,31 @@
 
 ## Part I. Foundations
 
-### 2. A Gentle Start
 
+## Week 1: June 14 
+### 2. A Gentle Start
+Speaker: Yong Huang
 
 ### 3. A Formal Learning
+Speaker: Yujuan Feng
 
-
+## Week 2: June 21 
 ### 4. Learning via Uniform Convergence
-
+Speaker: Yuantong Li
 
 ### 5. The Bias-Complexity Tradeoff
+Speaker: Xi Zhang
 
-
+## Week 3: June 28 
 ### 6. The VC-Dimension
-
+Speaker: Jie Xu
 
 ### 7. Nonuniform Learnability
+Speaker: Zhenxing Xu & Weishen Pan
 
-
+## Week 4: July 5
 ### 8. The Runtime of Learning
-
-
+Speaker: Sendong Zhao
 
 
 ## Part II. From Theory to Algorithms
