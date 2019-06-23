@@ -31,30 +31,32 @@ Speaker: Sendong Zhao
 
 ## Part II. From Theory to Algorithms
 
-
+## Week 5: July 12
 ### 9. Linear Predictors
-
+Speaker: Sendong Zhao
 
 ### 10. Boosting
+Speaker: Yuantong Li
 
-
+## Week 6: July 19
 ### 11. Model Selection and Validation
-
+Speaker: Xi Zhang
 
 ### 12. Convex Learning Problems
+Speaker: Jie Xu
 
-
+## Week 7: July 26
 ### 13. Regularization and Stability
-
+Speaker: Yujuan Feng
 
 ### 14. Stochastic Gradient Descent
-
+Speaker: Undecided
 
 ### 15. Support Vector Machines
-
+Speaker: Undecided
 
 ### 16. Kernel Methods
-
+Speaker: Yuantong Li
 
 ### 17. Multiclass, Ranking, and Complex Prediction Problems
 
