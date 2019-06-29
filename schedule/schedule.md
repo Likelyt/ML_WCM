@@ -36,7 +36,7 @@ Speaker: Sendong Zhao
 
 ## Week 5: July 12
 ### 10. Boosting
-Speaker: Yuantong Li
+Speaker: Undecided 
 
 ### 11. Model Selection and Validation
 Speaker: Xi Zhang
