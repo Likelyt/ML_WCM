@@ -36,7 +36,7 @@ Speaker: Sendong Zhao
 
 ## Week 5: July 12
 ### 10. Boosting
-Speaker: Undecided 
+Speaker: Yong Huang 
 
 ### 11. Model Selection and Validation
 Speaker: Xi Zhang
@@ -50,7 +50,7 @@ Speaker: Yujuan Feng
 
 ## Week 7: July 26
 ### 14. Stochastic Gradient Descent
-Speaker: Undecided
+Speaker: Weishen Pan 
 
 ### 15. Support Vector Machines
 Speaker: Undecided
@@ -60,6 +60,7 @@ Speaker: Undecided
 Speaker: Yuantong Li
 
 ### 17. Multiclass, Ranking, and Complex Prediction Problems
+
 
 ## Week 8: Aug 2
 ### 18. Decision Trees
